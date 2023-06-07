@@ -1,9 +1,9 @@
 <?php
 
-$server = 'localhost';
-$username = 'u411959762_codenautas';
-$password = 'D0?NU4k$';
-$database = 'u411959762_app_tasks';
+$server = '';
+$username = '';
+$password = '';
+$database = '';
 
 try{
 	//Almacenamos la conexión a la BDD:
